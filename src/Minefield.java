@@ -1,4 +1,4 @@
-// Written by Arnav Garg, garg0141 and Hayden Chu, chu00161
+
 
 import java.awt.*;
 import java.util.Queue;
