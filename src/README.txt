@@ -1,7 +1,6 @@
-Hayden Chu, chu00161 and Arnav Garg, garg0141
+Arnav Garg
 
-Contributions of each partner (if working with a partner)
-    - We worked on everything together and contributed equally for all parts of the project
+
 
 Additional Features
        -getMines() - helper function that returns the number of mines remaining on the board
@@ -17,7 +16,3 @@ Outside Sources
     Queues - https://www.geeksforgeeks.org/queue-interface-java/
     Eliminate Spaces - https://stackoverflow.com/questions/25689473/how-to-take-input-in-java-without-spaces
     Generate random numbers - https://www.shiksha.com/online-courses/articles/generate-random-number-in-java/
-“I certify that the information contained in this README
-file is complete and accurate. I have both read and followed the course policies
-in the ‘Academic Integrity - Course Policy’ section of the course syllabus.”
-    -   Hayden Chu and Arnav Garg
